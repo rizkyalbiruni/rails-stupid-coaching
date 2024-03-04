@@ -13,3 +13,26 @@
  *= require_tree .
  *= require_self
  */
+ .container {
+
+  align-content: center;
+  padding: 30px;
+ }
+
+ h3, p {
+  margin: 40px;
+
+ }
+
+ #you {
+  background-color: antiquewhite;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+ }
+
+ #coach {
+  background-color: aquamarine;
+  border-radius: 5px;
+  padding: 10px;
+ }
